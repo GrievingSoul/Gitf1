@@ -9,5 +9,6 @@ int main() {
     scanf("%d", &num2);
     sum = num1 + num2;
     printf("Sum of %d and %d is %d\n", num1, num2, sum);
+    printf("answer");
     return 0;
 }

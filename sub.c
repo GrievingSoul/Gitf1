@@ -8,6 +8,7 @@ int main() {
     scanf("%d", &num2);
     difference = num1 - num2;
     printf("Difference between %d and %d is %d\n", num1, num2, difference);
+    printf("answer");
     return 0;
 }
 
