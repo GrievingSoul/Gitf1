@@ -10,5 +10,6 @@ int main() {
     sum = num1 + num2;
     printf("Sum of %d and %d is %d\n", num1, num2, sum);
     printf("answer");
+    printf("Thankyou");
     return 0;
 }
