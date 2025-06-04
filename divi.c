@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     float num1, num2, result;
     printf("Enter the first number: ");
@@ -12,7 +11,7 @@ int main() {
     } else {
         printf("Error: Division by zero is not allowed.\n");
     }
-
+    printf("Execuited Perfectly");
     return 0;
 }
 
